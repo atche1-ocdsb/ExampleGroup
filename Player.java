@@ -1,10 +1,12 @@
-
-/**
- * Write a description of class Player here.
+/*
+ * Description: 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Artem Tchernov)
+ * @version (Apr 30th, 2026)
  */
-public class Player
-{
+
+public class Player {
+    //declare an instance variable to store username
+    private String strUser;
+    
 }
